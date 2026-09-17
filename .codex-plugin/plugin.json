@@ -1,0 +1,18 @@
+{
+  "name": "mobile-gameplay-ux-review",
+  "version": "0.1.0",
+  "description": "Review mobile web gameplay through playtesting and actionable UX findings.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Mobile Gameplay UX Review",
+    "shortDescription": "Review touch controls and mobile gameplay UX.",
+    "longDescription": "Compare desktop and mobile gameplay with Playwright, then produce a prioritized report with evidence and acceptance criteria for implementation.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use $mobile-gameplay-ux-review to playtest this web game on mobile and produce mobile-gameplay-review.md with prioritized findings and acceptance criteria."
+  }
+}
